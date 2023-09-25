@@ -11,7 +11,7 @@ I'm
 Full Stack Developer
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), front-end development (React, HTML5, CSS3, Javascript, Responsive), database(MongoDB,Mysql) 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SiddheshVJ/count.svg)
 <!--
 <div>
   <h4>🏆 Github Profile Trophy</h4>
