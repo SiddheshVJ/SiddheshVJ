@@ -80,14 +80,14 @@
 
 <br/>
 
-<h3 align="left">Achievements:</h3>
 <!---
+<h3 align="left">Achievements:</h3>
 [![An image of @SiddheshVJ's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/SiddheshVJ)](https://holopin.io/@SiddheshVJ)
 <br><br><br>
 --->
 <h3 align="left">Activity Graphs:</h3>
 
-[![Siddhesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddheshVJ&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Siddhesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddheshVJ&bg_color=000000&color=ffffff&line=99008f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
