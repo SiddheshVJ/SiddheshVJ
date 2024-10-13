@@ -47,21 +47,21 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,express,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,express,nodejs,nestjs" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,redux,tailwind,materialui,bootstrap,css,html" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,redux,tailwind,materialui,css3,html5" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
   </a>
 </p>
 
