@@ -54,7 +54,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,redux,tailwind,materialui,css3,html5" />
+    <img src="https://skillicons.dev/icons?i=ts,angular,nextjs,redux,tailwind,materialui,css3,html5" />
   </a>
 </p>
 
